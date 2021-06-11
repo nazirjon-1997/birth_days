@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98935139857",
+    "project_id": "birth-day-miet",
+    "storage_bucket": "birth-day-miet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98935139857:android:376bf55481b3b67fe20bb0",
+        "android_client_info": {
+          "package_name": "ru.spintex.spintex_birth_days"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98935139857-scq827tfprll46fj2lmuiinjh3e1eorn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.spintex.spintex_birth_days",
+            "certificate_hash": "53bfcbbff4c961dbb94bb8993dd400af36f52b22"
+          }
+        },
+        {
+          "client_id": "98935139857-cbb1hoq9df610mgina82u013bjeqbmap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY4fSMxeInKY_92tE4tvRT2g8bKIiw-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98935139857-cbb1hoq9df610mgina82u013bjeqbmap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
