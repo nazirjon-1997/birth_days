@@ -2,8 +2,8 @@
 
 # Приложение для Дни рождения
 
-# Dart, Flutter
-# Rxdart, path_provider
-# Firebase
+## Dart, Flutter
+## Rxdart, path_provider
+## Firebase
 
 
